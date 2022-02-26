@@ -1,0 +1,80 @@
+{
+  "Global": {
+    "fitur": [
+      "Login",
+      "About / Petunjuk Penggunaan"
+    ],
+    "Pages": [
+      "Login",
+      "Utama -> Petunjuk Penggunaan (Dokumentasi)"
+    ]
+  },
+  "StakeHolder": {
+    "Admin / TU": {
+      "fitur": [
+        "Presensi hadir Hari ini",
+        "Semua Siswa (CRUD) -> Perkelas -> Track per Siswa",
+        "Tambah akun Admin (CRUD)",
+        "Tambah akun guru (CRUD)",
+        "Tambah akun Siswa (CRUD)",
+        "Export Hadir Siswa"
+      ],
+      "Pages": {
+        "Halaman Utama": [
+          "Presensi Siswa",
+          "CRUD Admin",
+          "CRUD Guru",
+          "CRUD Siswa",
+          "Siswa"
+        ]
+      }
+    },
+    "Guru": {
+      "fitur": [
+        "Presensi hadir Hari ini",
+        "Semua Siswa (CRUD) -> Perkelas -> Track per Siswa",
+        "Tambah akun Siswa (CRUD)",
+        "Role Siswa",
+        "Export Hadir Siswa"
+      ],
+      "Pages": {
+        "Halaman Utama": [
+          "Presensi Siswa",
+          "CRUD Siswa",
+          "Siswa dengan detail"
+        ]
+      }
+    }
+  },
+  "Tools": {
+    "Design": "Adobe XD",
+    "Code editor": "VS Code",
+    "DBMS": "MYsql",
+    "DB Interface": "TablePlus",
+    "API Testing": "Postman",
+    "Language": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "PHP"
+    ],
+    "Framework / Library": [
+      "TailwindCSS",
+      "ReactJS",
+      "Laravel"
+    ]
+  },
+  "Assets": {
+    "ColorLibrary": {
+      "MyBlue1": "#22A6B3",
+      "MyBlue2": "#16717A",
+      "MyGray1": "#BEBDBD",
+      "MyGray2": "#3E3E3E"
+    },
+    "images": [
+      "Logo Tarmub",
+      "Foto Admin",
+      "Foto Guru"
+    ]
+  }
+}
